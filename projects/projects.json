@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Employee Attrition Analysis",
+    "desc": "A SQL-based analysis of the HREmployeeAttrition dataset, exploring workforce trends through EDA, descriptive statistics, and advanced queries to uncover key factors driving employee attrition.",
+    "image": "sql-logo",
+    "links": {
+      "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1893123818/multiple-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424&treasuryMediaId=1722027527233",
+      "code": "https://github.com/Trilliakumaresan/HREmployeeAttrition_sqlproject"
+    }
+  },
+  {
+    "name": "Call Center Operations Analysis",
+    "desc": "An Excel-based analysis of call center operations, leveraging data cleaning, advanced formulas, pivot tables, and visualizations to uncover trends in customer sentiment and operational efficiency.",
+    "image": "Excel",
+    "links": {
+      "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1725302078076/single-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424",
+      "code": "https://github.com/Trilliakumaresan/Call_Center_Performance"
+    }
+  }
+]
