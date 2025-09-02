@@ -16,5 +16,15 @@
       "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1725302078076/single-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424",
       "code": "https://github.com/Trilliakumaresan/Call_Center_Performance"
     }
+  },
+  {
+    "name": "Business Performance Analysis using Databricks",
+    "desc": "A Databricks-based project exploring call center performance analytics, leveraging Spark integration, SQL, and collaborative notebooks to uncover insights while demonstrating the platform’s scalability, lakehouse architecture, and advanced data capabilities.",
+    "image": "Databricks",
+    "links": {
+      "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1725302078076/single-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424",
+      "code": "https://github.com/Trilliakumaresan/Call_Center_Performance-Using-Databricks"
+    }
   }
 ]
+
