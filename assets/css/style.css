@@ -383,6 +383,9 @@ header .navbar ul li a:hover {
   font-weight: 600;
   margin-top: 1rem;
 }
+.justified {
+  text-align: justify;
+}
 .about .row .content p {
   font-size: 1.5rem;
   margin-top: 1.5rem;
@@ -1220,3 +1223,4 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
