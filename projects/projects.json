@@ -1,7 +1,7 @@
 [
   {
     "name": "Employee Attrition Analysis",
-    "desc": "A SQL-based analysis: exploring workforce trends through EDA, descriptive statistics, and advanced queries to uncover key factors driving employee attrition.",
+    "desc": "exploring workforce trends and advanced key factors driving employee attrition.",
     "image": "sql-logo",
     "links": {
       "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1893123818/multiple-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424&treasuryMediaId=1722027527233",
@@ -10,8 +10,8 @@
   },
   {
     "name": "Call Center Operations Analysis",
-    "desc": "An Excel-based analysis of call center operations, leveraging data cleaning, advanced formulas, pivot tables, and visualizations to uncover trends in customer sentiment and operational efficiency.",
-    "image": "Excel",
+    "desc": "uncover trends in customer sentiment and operational efficiency.",
+    "image": "excel",
     "links": {
       "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1725302078076/single-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424",
       "code": "https://github.com/Trilliakumaresan/Call_Center_Performance"
@@ -19,13 +19,14 @@
   },
   {
     "name": "Business Performance Analysis using Databricks",
-    "desc": "Exploring call center performance analytics, leveraging Spark integration, SQL, and uncover insights while demonstrating the platform’s scalability and lakehouse architecture.",
-    "image": "Databricks",
+    "desc": "leveraging Spark integration to uncover insights while demonstrating the platform’s scalability and lakehouse architecture.",
+    "image": "databricks",
     "links": {
       "view": "https://www.linkedin.com/in/trillia-kumaresan/details/projects/1725302078076/single-media-viewer/?profileId=ACoAACBxf-sBBf4_7hz1oN-h66GJmQsaGxIk424",
       "code": "https://github.com/Trilliakumaresan/Call_Center_Performance-Using-Databricks"
     }
   }
 ]
+
 
 
