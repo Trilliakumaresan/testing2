@@ -645,7 +645,7 @@ header .navbar ul li a:hover {
   min-height: 80vh;
 }
 .publication .heading span {
-  color: rgb(255, 230, 0);
+  color: rgb(115, 3, 167);
 }
 .publication .qoute {
   font-size: 1.5rem;
@@ -1333,6 +1333,7 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
 
 
 
