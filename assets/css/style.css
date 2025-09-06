@@ -641,8 +641,11 @@ header .navbar ul li a:hover {
 
 /* publication section starts */
 .publication {
-  background: #d87df4;
+  background: #e8aafb;
   min-height: 80vh;
+}
+.publication .heading span {
+  color: rgb(255, 230, 0);
 }
 .publication .qoute {
   font-size: 1.5rem;
@@ -1330,6 +1333,7 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
 
 
 
