@@ -641,7 +641,7 @@ header .navbar ul li a:hover {
 
 /* publication section starts */
 .publication {
-  background: #e5ecfb;
+  background: #d87df4;
   min-height: 80vh;
 }
 .publication .qoute {
@@ -1330,5 +1330,6 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
 
 
