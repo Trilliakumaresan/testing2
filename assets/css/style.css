@@ -642,7 +642,7 @@ header .navbar ul li a:hover {
 /* publication section starts */
 .publication {
   background: rgb(235, 202, 245);
-  min-height: 80vh;
+  min-height: 60vh;
 }
 .publication .heading span {
   color: rgb(115, 3, 167);
@@ -1333,6 +1333,7 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
 
 
 
