@@ -1042,8 +1042,8 @@ header .navbar ul li a:hover {
 
 /* certificates section starts */
 .certificate {
-  /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
+  background: #010124; 
+  /* background: linear-gradient(to bottom, #000031, #00002c); */
 }
 .certificate h2 {
   color: #fff;
@@ -1454,6 +1454,7 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
 
 
 
